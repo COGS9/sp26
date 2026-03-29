@@ -2,7 +2,7 @@
   title: "Week 1 - Intro to Data Science<br>
     <small>
       📘 Read <a href=\"https://docs.google.com/document/d/1wNoespOvpfwMG5H4839B1Ap2KSnDMXlp3jQ-fbNBmWk/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">Syllabus & Course Policies</a><br>
-      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-1\" target=\"_blank\" rel=\"noopener\">R1: 50 Years of Data Science</a>
+      📘 Read <a href=\"https://cogs9.github.io/sp26/readings/reading-1\" target=\"_blank\" rel=\"noopener\">R1: 50 Years of Data Science</a>
     </small>"
 
   days:
@@ -13,7 +13,7 @@
           type: disc
           title: '<span style="color: red;">NO Discussion Section</span>'
 
-    - date: "2026-01-06"
+    - date: "2026-03-31"
       in_class: true
       events:
         - label: LEC 1
@@ -24,7 +24,14 @@
           type: misc
           title: '<a href="https://docs.google.com/document/d/1SedBxPlvlJkJ8NJwnbnwFijgt_QDrioI8De0SNpFYc0/edit?usp=sharing" target="_blank" rel="noopener">💡 Webclicker 101</a>'
 
-    - date: "2026-01-08"
+    - date: "2026-04-01"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: NO SECTION IN WEEK 1!
+          
+    - date: "2026-04-02"
       in_class: true
       events:
         - label: LEC 2
@@ -32,110 +39,97 @@
           title: Data science questions
           slides: https://drive.google.com/file/d/1IeG4GkKgU2BrNcJgvv2CCfQ4zGPlxPT9/view?usp=drive_link
 
-    - date: "2026-01-09"
-      in_class: true
-      events:
-        - label: OH
-          type: office_hours
-          title: PLA office hours
 
 - week: 2
   title: "Week 2 - Ethics & Data<br>
     <small>
-      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-2\" target=\"_blank\" rel=\"noopener\">R2: Ethics Readings</a>
+      📘 Read <a href=\"https://cogs9.github.io/sp26/readings/reading-2\" target=\"_blank\" rel=\"noopener\">R2: Ethics Readings</a>
     </small>"
   days:
-    - date: "2026-01-12"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: 9am & 10am sections (Fuling)
-          slides: https://drive.google.com/file/d/1VmBgmWXYW9u71JRWdD77X9TjnJqY7akf/view?usp=sharing
-        - label: DISC
-          type: disc
-          title: 11am & 1pm sections (Ian)
-          slides: https://drive.google.com/file/d/1HAROQ3BLHI0kMeOaeB7sJNEohnmGVO6D/view?usp=drive_link
-        - label: DISC
-          type: disc
-          title: 2pm & 4pm sections (Jiesen)
-          slides: https://drive.google.com/file/d/1t0ngFGHcthZWRF6zU686lcPhcGroNwyQ/view?usp=drive_link
-        - label: QUIZ
-          type: quiz
-          title: '<span style="color: red;">R1 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/240187" target="_blank" rel="noopener">submit here</a>'
-
-          
-        - label: MISC
-          type: misc
-          title: '<span style="color: red;">Syllabus Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/239582" target="_blank" rel="noopener">submit here</a>'
-          
-        - label: MISC
-          type: misc
-          title: '<span style="color: red;">Pre-Course Survey DUE @ 11:59pm</span> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbxpHnBMhkkAh-Rf4lITVRUunQe_Fc154iXRieXz84NuWfKQ/viewform?usp=header" target="_blank" rel="noopener">submit here</a>'
-
-    - date: "2026-01-13"
+    - date: "2026-04-07"
       in_class: true
       events:
         - label: LEC 3
           type: lecture
           title: Ethics and privacy
-          slides: https://drive.google.com/file/d/1KPdWOjttAU_HQSRADa48VLO4N5-4_OJx/view?usp=drive_link
+          slides: 
+        - label: MISC
+          type: misc
+          title: '<span style="color: red;">Syllabus Quiz DUE @ 11:59pm</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
+        - label: MISC
+          type: misc
+          title: '<span style="color: red;">Pre-Course Survey DUE @ 11:59pm</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
+         - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R1 Quiz DUE @ 11:59pm</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
 
-    - date: "2026-01-15"
+     - date: "2026-04-08"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: 9am & 11am sections (Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 10am & 12pm sections (Tony)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 1pm & 2pm sections (Jiesen)
+          slides: 
+       
+    - date: "2026-04-09"
       in_class: true
       events:
         - label: LEC 4
           type: lecture
           title: Data & data types
           slides: https://drive.google.com/file/d/1eKJPBqWTW0ay2t9aFMOQgaFYASKojc3q/view?usp=drive_link
-          
-        - label: MISC
-          type: misc
-          title: '<a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">Project group-finding form</a>'
-
-    - date: "2026-01-16"
-      in_class: true
-      events:
-        - label: OH
-          type: office_hours
-          title: PLA office hours
 
 - week: 3
   title: "Week 3 - Data Collection and Wrangling<br>
     <small>
-      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-3\" target=\"_blank\" rel=\"noopener\">R3: Data Organization Readings</a>
+      📘 Read <a href=\"https://cogs9.github.io/sp26/readings/reading-3\" target=\"_blank\" rel=\"noopener\">R3: Data Organization Readings</a>
     </small>"
   days:
-    - date: "2026-01-19"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: '<span style="color: red;">HOLIDAY—NO Discussion Section (everyone gets free +1pt)</span>'
-          slides: 
-        - label: QUIZ
-          type: quiz
-          title: '<span style="color: red;">R2 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241063" target="_blank" rel="noopener">submit here</a>'
-    
-    - date: "2026-01-20"
+    - date: "2026-04-14"
       in_class: true
       events:
         - label: LEC 5
           type: lecture
           title: Obtaining data
           slides: https://drive.google.com/file/d/1Q0t2Fz--3MoJFJduhrpB0TPWX_53xRgK/view?usp=sharing
-          
-        - label: MISC
-          type: misc
-          title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">submit here</a>'
+        - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R2 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241063" target="_blank" rel="noopener">submit here</a>'
+       
+    - date: "2026-04-15"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: 9am & 11am sections (Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 10am & 12pm sections (Tony)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 1pm & 2pm sections (Jiesen)
+          slides: 
 
-    - date: "2026-01-22"
+    - date: "2026-04-16"
       in_class: true
       events:
         - label: LEC 6
           type: lecture
           title: Data wrangling
           slides: https://drive.google.com/file/d/1t-3o6EPvAzcgpn73cA3fSkDlyhTOLwrg/view?usp=drive_link
+        - label: MISC
+          type: misc
+          title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-23"
       in_class: true
@@ -185,7 +179,7 @@
 - week: 5
   title: "Week 5 - Data Visualization & EDA<br>
        <small>
-      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-4\" target=\"_blank\" rel=\"noopener\">R4: Data Visualization Readings</a>
+      📘 Read <a href=\"https://cogs9.github.io/sp26/readings/reading-4\" target=\"_blank\" rel=\"noopener\">R4: Data Visualization Readings</a>
     </small>"
   days:
     - date: "2026-02-02"
@@ -197,7 +191,7 @@
           slides: https://docs.google.com/presentation/d/1VxLJ2ncs420T9mVJq6HoN9YAlJwKNdGCb2cfWga6nm4/edit?usp=sharing
         - label: PROJ
           type: project
-          title: '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-1" style="color: red;">P1 Group Project Checkpoint 1 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+          title: '<a href="https://cogs9.github.io/sp26/group-project/checkpoint-1" style="color: red;">P1 Group Project Checkpoint 1 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
           
 
     - date: "2026-02-03"
@@ -280,7 +274,7 @@
           slides: 
         - label: HW
           type: hw
-          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-1" style="color: red;">A1 Data Visualization DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+          title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-1" style="color: red;">A1 Data Visualization DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-02-17"
       in_class: true
@@ -307,7 +301,7 @@
 - week: 8
   title: "Week 8 - Machine Learning & Reproducibility<br>
     <small>
-      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-5\" target=\"_blank\" rel=\"noopener\">R5: Machine Learning Readings</a>
+      📘 Read <a href=\"https://cogs9.github.io/sp26/readings/reading-5\" target=\"_blank\" rel=\"noopener\">R5: Machine Learning Readings</a>
     </small>"
   days:
     - date: "2026-02-23"
@@ -315,7 +309,7 @@
       events:
         - label: HW
           type: hw
-          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+          title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
         - label: DISC
           type: disc
           title: ALL Sections - Exam 2 Review 
@@ -388,7 +382,7 @@
       events:
         - label: HW
           type: hw
-          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-3" style="color: red;">A3 Machine Learning DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+          title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-3" style="color: red;">A3 Machine Learning DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
       
         - label: DISC
           type: disc
@@ -422,4 +416,4 @@
       events:
         - label: PROJ
           type: project
-          title: '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-2" style="color: red;">P2 Group Project Checkpoint 2 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+          title: '<a href="https://cogs9.github.io/sp26/group-project/checkpoint-2" style="color: red;">P2 Group Project Checkpoint 2 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
