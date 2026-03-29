@@ -46,8 +46,8 @@
           type: lecture
           title: Ethics and privacy
           slides: 
-        - label: SURVEY
-          type: survey
+        - label: MISC
+          type: misc
           title: '<span style="color: red;">Pre-Course Survey DUE @ 11:59pm</span> <a href="https://forms.gle/3bNdJvnQYjDqtwCv5" target="_blank" rel="noopener">submit here</a>'
         - label: QUIZ
           type: quiz
@@ -112,8 +112,8 @@
           type: disc
           title: 1pm & 2pm sections (Jiesen)
           slides: 
-        - label: MISC
-          type: misc
+        - label: PROJ
+          type: project
           title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-04-16"
@@ -132,7 +132,7 @@
       events:
         - label: GUEST
           type: lecture
-          title: "[ZOOM] Guest lecture: Steven Zhang - Interconnection.fyi & ClimateTechList (see details on Canvas)"
+          title: "[ZOOM] Guest lecture: Steven Zhang - Co-Founder, Interconnection.fyi & ClimateTechList (see details on Canvas)"
           slides: 
         - label: QUIZ
           type: quiz
@@ -222,7 +222,7 @@
       events:
         - label: GUEST
           type: lecture
-          title: "Guest lecture: Eshed Margalit — Noetik" 
+          title: "Guest lecture: Eshed Margalit — Director of Machine Learning Research, Noetik" 
 
 - week: 7
   title: "Week 7 - Machine Learning"
@@ -268,26 +268,26 @@
       📘 Read <a href=\"https://cogs9.github.io/sp26/readings/reading-5\" target=\"_blank\" rel=\"noopener\">R5: Machine Learning Readings</a>
     </small>"
   days:
-    - date: "2026-02-23"
+    - date: "2026-05-19"
       in_class: false
-      events:
-        - label: HW
-          type: hw
-          title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
-        - label: DISC
-          type: disc
-          title: ALL Sections - Exam 2 Review 
-          slides: 
-    
-    - date: "2026-02-24"
-      in_class: true
       events:
         - label: LEC 12
           type: lecture
           title: Machine learning III - Unsupervised Learning & Reinforcement Learning
+          slides: 
+        - label: HW
+          type: hw
+          title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
+        
+    - date: "2026-05-20"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: ALL Sections - Exam 2 Review 
           slides:
-
-    - date: "2026-02-26"
+          
+    - date: "2026-05-21"
       in_class: true
       events:
         - label: LEC 13
@@ -298,62 +298,65 @@
 - week: 9
   title: "Week 9"
   days:
-    - date: "2026-03-02"
+    - date: "2026-05-26"
+      in_class: true
+      events:
+        - label: GUEST
+          type: lecture
+          title: "Guest lecture: Emily Jones — Senior Data Scientist, Epic Games"
+       - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248868" target="_blank" rel="noopener">submit here</a>'
+
+    - date: "2026-05-27"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: ALL Sections - Exam 2 More Review 
-          slides:
-        - label: QUIZ
-          type: quiz
-          title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248868" target="_blank" rel="noopener">submit here</a>'
-
-    - date: "2026-03-03"
+          title: Post-exam reflection (all sections)
+      
+    - date: "2026-05-28"
       in_class: true
-      events:
         - label: EXAM
           type: exam
           title: EXAM 2 (In-class, 50-60 MC questions, 80 mins; Please contact Prof. Lai if you will require accommodated testing. If you miss the exam for any other reason, please contact your section TA/PLA ASAP!)
           slides:
           
-    - date: "2026-03-05"
-      in_class: true
-      events:
-        - label: GUEST
-          type: lecture
-          title: "ZOOM Guest lecture: Emma Krause — Staff Machine Learning Engineer, PathAI (see Zoom details on Canvas)"
-
 - week: 10
   title: "Week 10 - Applications & Future of Data Science"
   days:
-    - date: "2026-03-09"
+    - date: "2026-06-02"
       in_class: false
-      events:
-        - label: HW
-          type: hw
-          title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-3" style="color: red;">A3 Machine Learning DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
-      
-        - label: DISC
-          type: disc
-          title: Post-exam review (all sections)
-          slides: https://docs.google.com/presentation/d/12fcwUgMfADwzX67qtMFWccdkshhdE-X3DMxIkA2JJM8/edit?usp=sharing
-
-    - date: "2026-03-10"
-      in_class: true
       events:
         - label: LEC 14
           type: lecture
           title: Data science applications
-          slides: https://drive.google.com/file/d/1QPVdDg0i1WlvTo_cXfGwM3v_ETZjtUNz/view?usp=drive_link
-
-    - date: "2026-03-12"
+        - label: HW
+          type: hw
+          title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-3" style="color: red;">A3 Machine Learning DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
+      
+    - date: "2026-06-03"
       in_class: true
       events:
-        - label: LEC 15
+        - label: DISC
+          type: disc
+          title: 9am & 11am sections (Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 10am & 12pm sections (Tony)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 1pm & 2pm sections (Jiesen)
+          slides: 
+    
+    - date: "2026-06-04"
+      in_class: true
+      - label: LEC 15
           type: lecture
           title: Future of data science
-          slides: https://drive.google.com/file/d/1RTJEjq8inQLNATb5XX5M5oHLppvoIZy0/view?usp=drive_link
+          slides: 
 
 - week: 11
   title: "Week 11 - Final Project<br>
@@ -361,7 +364,7 @@
       🎥 Final project due this week. **NO FINAL EXAM!**<br>
     </small>"
   days:
-    - date: "2026-03-17"
+    - date: "2026-06-09"
       in_class: false
       events:
         - label: PROJ
