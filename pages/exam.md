@@ -14,7 +14,7 @@ There will be **two, non-cumulative exams** in this class (please mark them in y
 * **Thursday, May 28**
   * Study sheets + webclicker questions to come!
 
-Each exam will be roughly 50-60 multiple-choice questions, and will cover material from both the lecture and readings. The TAs & PLAs will hold exam review sessions before each exam.
+Each exam will be roughly 50-60 multiple-choice questions, and will cover material from both the lecture and readings. The TAs & PLAs will hold exam review sessions during discussion section before each exam.
 
 ## What happens if I miss an exam or have testing accommodations? 
 We will use the [Triton Testing Center (TTC)](https://tritontesting.ucsd.edu/) located in Pepper Canyon Hall 364 to administer exams for students with documented accommodations and for legitimate excused absences (does NOT include voluntary travel).
