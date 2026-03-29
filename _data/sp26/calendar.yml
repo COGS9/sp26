@@ -86,7 +86,14 @@
       📘 Read <a href=\"https://cogs9.github.io/sp26/readings/reading-3\" target=\"_blank\" rel=\"noopener\">R3: Data Organization Readings</a>
     </small>"
   days:
-    - date: "2026-04-14"
+     - date: "2026-01-23"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+          
+     - date: "2026-04-14"
       in_class: true
       events:
         - label: LEC 5
@@ -124,12 +131,7 @@
           type: misc
           title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
 
-    - date: "2026-01-23"
-      in_class: true
-      events:
-        - label: OH
-          type: office_hours
-          title: PLA office hours
+
 
  
 - week: 4
