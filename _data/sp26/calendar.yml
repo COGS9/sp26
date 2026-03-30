@@ -317,6 +317,7 @@
       
     - date: "2026-05-28"
       in_class: true
+      events:
         - label: EXAM
           type: exam
           title: EXAM 2 (In-class, 50-60 MC questions, 80 mins; Please contact Prof. Lai if you will require accommodated testing. If you miss the exam for any other reason, please contact your section TA/PLA ASAP!)
@@ -353,7 +354,8 @@
     
     - date: "2026-06-04"
       in_class: true
-      - label: LEC 15
+      events:
+        - label: LEC 15
           type: lecture
           title: Future of data science
           slides: 
