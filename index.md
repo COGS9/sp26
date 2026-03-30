@@ -30,18 +30,16 @@ nav_order: 1
 {% include staffer.html staff=staff nobio='true' %}
 
 {: .important }
-If you are joining the course late and would still like to earn full credit for assignments, please **[read this](https://docs.google.com/document/d/1wNoespOvpfwMG5H4839B1Ap2KSnDMXlp3jQ-fbNBmWk/edit?tab=t.0#heading=h.l1tve2rn62el)**! Please also note that I have **no control over the waitlist**. Please email [cogsadvising@ucsd.edu](mailto:cogsadvising@ucsd.edu) or drop in their office hours (your best bet)!
+If you are joining the course late and would still like to earn full credit for assignments, please **[read this](https://docs.google.com/document/d/1i3c8oN-QEdW7sisnoAQkgKoKgPBzV5TmuyMYZFJyl_A/edit?tab=t.0#heading=h.l1tve2rn62el)**! Please also note that I have **no control over the waitlist**. Please email [cogsadvising@ucsd.edu](mailto:cogsadvising@ucsd.edu) or drop in their office hours (your best bet)!
 
 ## Office Hours
 * **Prof. Lai**:
-  * Tues, 2-3pm (<a href="https://calendar.app.google/1nebbtvdYdn6WFpw5" target="_blank" rel="noopener">book &#x2197;</a> only) @ CSB 244/Zoom
-  * Wed, 4:30-5:30pm (walk-in!) @ CSB 244
-  * Thurs, 2-3pm (walk-in!) @ CSB 244
+  * Tues, 1-2:15pm (<a href="https://calendar.app.google/1nebbtvdYdn6WFpw5" target="_blank" rel="noopener">book &#x2197;</a> only) @ CSB 244/Zoom
+  * Thurs, 1-2pm (walk-in!) @ CSB 244
 * **TAs**: During discussion section
 * **PLAs**:
-  * Fri, 12-2p @ <a href="https://ucsd.zoom.us/j/97105211157" target="_blank" rel="noopener">Zoom &#x2197;</a> (Brandon, Jayminn) 
-  * Fri, 12-1p @ CSB 114 (Alex)
-  * Fri, 1-2p @ HDSI 155 (Adrian, TQ)
+  * Mon, TBD
+  * Tues, TBD
 
 <!-- **{{ course_vars.announcement.text }}** -->
 
