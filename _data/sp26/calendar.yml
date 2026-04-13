@@ -114,7 +114,7 @@
           slides: 
         - label: PROJ
           type: project
-          title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href="https://forms.gle/VzfgCsvyyQpuKtNt6" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-04-16"
       in_class: true
