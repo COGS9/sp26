@@ -103,15 +103,15 @@
         - label: DISC
           type: disc
           title: 9am & 11am sections (Fuling)
-          slides: 
+          slides: https://docs.google.com/presentation/d/148vET_TZcY0NUYSOHD6KJ1A9boOTUky_1V05PWhGyfo/edit?usp=drive_link
         - label: DISC
           type: disc
           title: 10am & 12pm sections (Tony)
-          slides: 
+          slides: https://docs.google.com/presentation/d/1ye7BnR_hPbyChdyvo_QinnVbfAn1wgpnxc-A8xCZQL0/edit?usp=drive_link
         - label: DISC
           type: disc
           title: 1pm & 2pm sections (Jiesen)
-          slides: 
+          slides: https://docs.google.com/presentation/d/1y439YbfkZ5uV9jAK1bkNJZNoEKgVazr_M6-P2N1lxQ8/edit?usp=drive_link
         - label: PROJ
           type: project
           title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href="https://forms.gle/VzfgCsvyyQpuKtNt6" target="_blank" rel="noopener">submit here</a>'
