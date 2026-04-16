@@ -133,7 +133,7 @@
         - label: LEC 6
           type: lecture
           title: Data wrangling
-          slides: 
+          slides: https://drive.google.com/file/d/1PXrKeKoPZPn4GFuO2EvCclCSiPacVAbN/view?usp=drive_link
         - label: QUIZ
           type: quiz
           title: '<span style="color: red;">R3 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248865" target="_blank" rel="noopener">submit here</a>'
