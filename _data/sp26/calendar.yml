@@ -166,7 +166,7 @@
         - label: LEC 7
           type: lecture
           title: Data visualization
-          slides: 
+          slides: https://drive.google.com/file/d/1-1imHOF_FGEbVbCzTLxa7Ukyq1qmN28V/view?usp=drive_link
         - label: PROJ
           type: project
           title: '<a href="https://cogs9.github.io/sp26/group-project/checkpoint-1" style="color: red;">P1 Group Project Checkpoint 1 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
