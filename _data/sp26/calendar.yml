@@ -176,8 +176,16 @@
       events:
         - label: DISC
           type: disc
-          title: ALL Sections — Post-exam review
-          slides: 
+          title: 9am & 11am sections (Fuling)
+          slides: https://docs.google.com/presentation/d/1Z8wPmh1lMNrJ2o2qxoJ0T5urhrd8kvRzsZzyatwPg6A/edit?usp=drive_link
+        - label: DISC
+          type: disc
+          title: 10am & 12pm sections (Tony)
+          slides: https://docs.google.com/presentation/d/1c2T23lLgv-ojBpwCmC0yf-9BeqRu8--l_zJwglzkNzc/edit?usp=drive_link
+        - label: DISC
+          type: disc
+          title: 1pm & 2pm sections (Jiesen)
+          slides: https://docs.google.com/presentation/d/153UDTc3CzFESTUy623pWf28cSeBSVk_fagcrX4oeTY8/edit?usp=drive_link
     
     - date: "2026-04-30"
       in_class: true
@@ -185,7 +193,7 @@
         - label: LEC 8
           type: lecture
           title: Exploratory data analysis
-          slides:
+          slides: https://drive.google.com/file/d/1gOIicrtlUnKkhUG262O1spcI4dh0Hrd9/view?usp=drive_link
 
 - week: 6
   title: "Week 6 - Statistical Inference & Machine Learning"
