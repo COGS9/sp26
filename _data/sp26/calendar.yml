@@ -204,7 +204,7 @@
         - label: LEC 9
           type: lecture
           title: Statistical inference & hypothesis testing
-          slides: 
+          slides: https://drive.google.com/file/d/12Nx4R2yRs229vxIoKzYk1HXdThAOWE6V/view?usp=drive_link
         - label: QUIZ
           type: quiz
           title: '<span style="color: red;">R4 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248870" target="_blank" rel="noopener">submit here</a>'
