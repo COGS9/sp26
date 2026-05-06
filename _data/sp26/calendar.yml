@@ -292,8 +292,16 @@
       events:
         - label: DISC
           type: disc
-          title: ALL Sections - Exam 2 Review 
-          slides:
+          title: 9am & 11am sections (Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 10am & 12pm sections (Tony)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 1pm & 2pm sections (Jiesen)
+          slides: 
           
     - date: "2026-05-21"
       in_class: true
@@ -321,7 +329,7 @@
       events:
         - label: DISC
           type: disc
-          title: Post-exam reflection (all sections)
+          title: Exam 2 Review
       
     - date: "2026-05-28"
       in_class: true
@@ -349,15 +357,7 @@
       events:
         - label: DISC
           type: disc
-          title: 9am & 11am sections (Fuling)
-          slides: 
-        - label: DISC
-          type: disc
-          title: 10am & 12pm sections (Tony)
-          slides: 
-        - label: DISC
-          type: disc
-          title: 1pm & 2pm sections (Jiesen)
+          title: Post-Exam 2 Review
           slides: 
     
     - date: "2026-06-04"
