@@ -306,10 +306,9 @@
     - date: "2026-05-21"
       in_class: true
       events:
-        - label: LEC 13
+        - label: GUEST
           type: lecture
-          title: Algorithmic bias & fairness
-          slides: 
+          title: "Guest lecture: Emily Jones — Senior Data Scientist, Epic Games"
 
 - week: 9
   title: "Week 9"
@@ -317,9 +316,10 @@
     - date: "2026-05-26"
       in_class: true
       events:
-        - label: LEC 14
+        - label: LEC 13
           type: lecture
-          title: Data science applications (virtual)
+          title: Algorithmic bias & fairness (virtual)
+          slides: 
         - label: QUIZ
           type: quiz
           title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248868" target="_blank" rel="noopener">submit here</a>'
@@ -345,9 +345,9 @@
     - date: "2026-06-02"
       in_class: false
       events:
-        - label: GUEST
+        - label: LEC 14
           type: lecture
-          title: "Guest lecture: Emily Jones — Senior Data Scientist, Epic Games"
+          title: Data science applications 
         - label: HW
           type: hw
           title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-3" style="color: red;">A3 Machine Learning DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
