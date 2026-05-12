@@ -241,7 +241,7 @@
         - label: LEC 10
           type: lecture
           title: Machine learning I - supervised learning 
-          slides: 
+          slides: https://drive.google.com/file/d/1_HSVWc3N3W9CACwjmDP2w1bj-8gLXc2z/view?usp=drive_link
         - label: HW
           type: hw
           title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-1" style="color: red;">A1 Data Visualization DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
@@ -256,7 +256,7 @@
         - label: DISC
           type: disc
           title: 10am & 12pm sections (Tony)
-          slides: 
+          slides: https://docs.google.com/presentation/d/1kX3ObpUOiKtNFyp-WphoFKKob3XRiuYLZQy85lh5rSQ/edit?usp=drive_link
         - label: DISC
           type: disc
           title: 1pm & 2pm sections (Jiesen)
