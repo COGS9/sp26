@@ -252,7 +252,7 @@
         - label: DISC
           type: disc
           title: 9am & 11am sections (Fuling)
-          slides: 
+          slides: https://docs.google.com/presentation/d/1wDkCR1reAXhy29D6vwA1Gs_OBR7Penn3bKxN08Xi2ac/edit?usp=drive_link
         - label: DISC
           type: disc
           title: 10am & 12pm sections (Tony)
@@ -260,7 +260,7 @@
         - label: DISC
           type: disc
           title: 1pm & 2pm sections (Jiesen)
-          slides: 
+          slides: https://docs.google.com/presentation/d/1-MrSQXUzfB1OmiUOVJHCc9ivlDalKd-0ZYkl3jsn1pY/edit?usp=drive_link
       
     - date: "2026-05-14"
       in_class: true
@@ -268,7 +268,7 @@
         - label: LEC 11
           type: lecture
           title: Machine learning II - supervised learning model evaluation 
-          slides: 
+          slides: https://drive.google.com/file/d/1PqwNV4fHUKQmu-k35PuWEpVDDA8b2i61/view?usp=drive_link
 
 - week: 8
   title: "Week 8 - Machine Learning & Reproducibility<br>
