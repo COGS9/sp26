@@ -367,6 +367,14 @@
           type: lecture
           title: Future of data science
           slides: 
+          
+    - date: "2026-06-06"
+      in_class: true
+      events:
+        - label: MISC
+          type: misc
+          title: title: '<span style="color: red;">SET Evaluations DUE @ 8am</span> <a href="https://academicaffairs.ucsd.edu/Modules/Evals" target="_blank" rel="noopener">submit here</a>'
+          slides: 
 
 - week: 11
   title: "Week 11 - Final Project<br>
