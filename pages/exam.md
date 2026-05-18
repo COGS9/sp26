@@ -13,7 +13,7 @@ There will be **two, non-cumulative exams** in this class (please mark them in y
   * [Exam 1 Webclicker Questions](https://drive.google.com/file/d/1C9POMvqcHk9kA9V49r5hfhEyLDy9qKgj/view?usp=drive_link)
   * [TA Section Exam 1 Review](https://docs.google.com/presentation/d/1cTPTNVa2opKePvPEYsjDh8W9ZFAIyH36IeyOuNxHi2o/edit?usp=sharing)
 * **Thursday, May 28**
-  * [Exam 2 Webclicker Questions + Study Sheets](https://drive.google.com/file/d/1C9POMvqcHk9kA9V49r5hfhEyLDy9qKgj/view?usp=drive_link)
+  * [Exam 2 Webclicker Questions + Study Sheets](https://drive.google.com/file/d/1fk60rLoA9sYv-X6d2SsJMpBcaQPNvnnS/view?usp=drive_link)
   * [TA Section Exam 2 Review](https://docs.google.com/presentation/d/1PsR1kishMzdt9Zmk70rN8cz848p3FQOAIf0vvfsC-FE/edit?usp=sharing)
   * [Exam 2 Practice Test (Written by TAs)](https://docs.google.com/document/d/1fjMq26Rc9nwbYCuvFXwrm9HuZ2RvxhV7sd7Dc_3Ts94/edit?usp=sharing)
      * [Exam 2 Practice Test - Answer Key](https://docs.google.com/document/d/1Sarz245MjWP693bkW0h_IUwwotI9hm1a6rn1wRneLgM/edit?usp=sharing)
