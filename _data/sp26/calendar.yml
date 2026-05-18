@@ -306,9 +306,9 @@
     - date: "2026-05-21"
       in_class: true
       events:
-        - label: GUEST
+        - label: LEC 13
           type: lecture
-          title: "Guest lecture: Emily Jones — Senior Data Scientist, Epic Games"
+          title: Algorithmic bias & fairness 
 
 - week: 9
   title: "Week 9"
@@ -316,9 +316,9 @@
     - date: "2026-05-26"
       in_class: true
       events:
-        - label: LEC 13
+        - label: GUEST
           type: lecture
-          title: Algorithmic bias & fairness (virtual)
+          title: "[CANCELLED] Guest lecture: Emily Jones — Senior Data Scientist, Epic Games (please see alternative assignment on Canvas)"
           slides: 
         - label: QUIZ
           type: quiz
