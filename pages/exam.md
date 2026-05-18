@@ -10,8 +10,8 @@ permalink: /exam/
 
 There will be **two, non-cumulative exams** in this class (please mark them in your calendar!): 
 * **Thursday, Apr 23**
-  * [TA Section Exam 1 Review](https://docs.google.com/presentation/d/1cTPTNVa2opKePvPEYsjDh8W9ZFAIyH36IeyOuNxHi2o/edit?usp=sharing)
   * [Exam 1 Webclicker Questions](https://drive.google.com/file/d/1C9POMvqcHk9kA9V49r5hfhEyLDy9qKgj/view?usp=drive_link)
+  * [TA Section Exam 1 Review](https://docs.google.com/presentation/d/1cTPTNVa2opKePvPEYsjDh8W9ZFAIyH36IeyOuNxHi2o/edit?usp=sharing)
 * **Thursday, May 28**
   * [Exam 2 Webclicker Questions + Study Sheets](https://drive.google.com/file/d/1C9POMvqcHk9kA9V49r5hfhEyLDy9qKgj/view?usp=drive_link)
   * [TA Section Exam 2 Review](https://docs.google.com/presentation/d/1PsR1kishMzdt9Zmk70rN8cz848p3FQOAIf0vvfsC-FE/edit?usp=sharing)
