@@ -330,6 +330,7 @@
         - label: DISC
           type: disc
           title: Exam 2 Review
+          slides: https://drive.google.com/file/d/1fAgmA2QVLUV7VDI8Rp4alToQoINRggO4/view?usp=drive_link
       
     - date: "2026-05-28"
       in_class: true
