@@ -318,7 +318,7 @@
       events:
         - label: GUEST
           type: lecture
-          title: "(CANCELLED) Guest lecture: Emily Jones — Senior Data Scientist, Epic Games (please see alternative assignment on Canvas)"
+          title: "[CANCELLED] Guest lecture: Emily Jones — Senior Data Scientist, Epic Games (please see alternative assignment on Canvas)"
           slides: 
         - label: QUIZ
           type: quiz
@@ -374,7 +374,7 @@
       events:
         - label: MISC
           type: misc
-          title: title: '<span style="color: red;">SET Evaluations DUE @ 8am</span> <a href="https://academicaffairs.ucsd.edu/Modules/Evals" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">SET Evaluations DUE @ 8am</span> <a href="https://academicaffairs.ucsd.edu/Modules/Evals" target="_blank" rel="noopener">submit here</a>'
           slides: 
 
 - week: 11
