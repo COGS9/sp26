@@ -282,7 +282,7 @@
         - label: LEC 12
           type: lecture
           title: Machine learning III - unsupervised learning & reinforcement learning
-          slides: 
+          slides: https://drive.google.com/file/d/1x4U6riNZU32okfMQ-TyOn9ioevAdIjGQ/view?usp=drive_link
         - label: HW
           type: hw
           title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
@@ -297,7 +297,7 @@
         - label: DISC
           type: disc
           title: 10am & 12pm sections (Tony)
-          slides: 
+          slides: https://docs.google.com/presentation/d/13hZXdON4qjztt75nKJhCbLEtNCjhtVBh9uY4l3Zkqro/edit?usp=drive_link
         - label: DISC
           type: disc
           title: 1pm & 2pm sections (Jiesen)
