@@ -293,7 +293,7 @@
         - label: DISC
           type: disc
           title: 9am & 11am sections (Fuling)
-          slides: 
+          slides: https://docs.google.com/presentation/d/1KeHIUAFYpC4dI64H4uD_8zpURdVtlJC0aFa832r4-5o/edit?usp=drive_link
         - label: DISC
           type: disc
           title: 10am & 12pm sections (Tony)
@@ -301,7 +301,7 @@
         - label: DISC
           type: disc
           title: 1pm & 2pm sections (Jiesen)
-          slides: 
+          slides: https://docs.google.com/presentation/d/1w0VGsF1Czq-_Sl3YftKl7ow8JXFDtV6fLC8988gVlVs/edit?usp=drive_link
           
     - date: "2026-05-21"
       in_class: true
