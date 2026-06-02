@@ -350,6 +350,7 @@
         - label: LEC 14
           type: lecture
           title: Data science applications 
+          slides: https://drive.google.com/file/d/1gRn7mMMguFujl4A5V2-QWVFcpXFuAgpF/view?usp=drive_link
         - label: HW
           type: hw
           title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-3" style="color: red;">A3 Machine Learning DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
@@ -368,7 +369,7 @@
         - label: LEC 15
           type: lecture
           title: Future of data science
-          slides: 
+          slides: https://drive.google.com/file/d/1yixCYBEynZ8Uor857XBs6xQ04zIfNqji/view?usp=drive_link
           
     - date: "2026-06-06"
       in_class: false
