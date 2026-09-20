@@ -28,7 +28,7 @@ title: COGS 9
 tagline: Introduction to Data Science 📊 | Spring 2026
 
 url: https://cogs9.github.io
-baseurl: 'sp26'
+baseurl: 
 
 ###### Build settings
 # remote_theme:
@@ -79,8 +79,6 @@ aux_links:
   - 'https://www.gradescope.com/courses/1288254'
   🎙️ Podcast:
   -  'https://podcast.ucsd.edu/watch/sp26/cogs9_a00'
-  💬 Feedback:
-  - 'https://docs.google.com/forms/d/e/1FAIpQLSeG3HjRZSgFPv9zDxVaMCdYW-iSwYmQHE7t2JbhLA-0upTsQA/viewform?usp=sharing&ouid=113612539407126073694'
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
